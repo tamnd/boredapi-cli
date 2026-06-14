@@ -1,0 +1,10 @@
+title       = "boredapi"
+baseURL     = "https://boredapi-cli.tamnd.com/"
+description = "Suggest random activities when bored via the Bored API"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/boredapi-cli"
